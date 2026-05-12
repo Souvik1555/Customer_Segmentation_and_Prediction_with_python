@@ -21,8 +21,7 @@ This project focuses on customer segmentation and prediction using Python-based 
 - Business Intelligence Dashboard
 
 ## Dashboard Preview
-![Dashboard](<img width="5370" height="4719" alt="executive_dashboard (2)" src="https://github.com/user-attachments/assets/59e1a044-70c7-4dfc-adf3-08dab893ef63" />
-)
+![Dashboard](<img width="5370" height="4719" alt="executive_dashboard (2)" src="https://github.com/user-attachments/assets/59e1a044-70c7-4dfc-adf3-08dab893ef63" />)
 
 ## Key Insights
 - High-value customers contribute significantly to revenue.
